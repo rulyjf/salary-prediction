@@ -1,2 +1,1 @@
-# salary-prediction
-Test Salary prediction
+# Heroku-Demo
